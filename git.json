@@ -1,0 +1,19 @@
+[
+  {
+        "p_rel_url" : "srujan-l/digital-locks-for-motels/refs/heads/main/olist_order_items_dataset.csv",
+        "p_sink_folder" : "olist_order_items_datase",
+        "p_sink_file" : "olist_order_items_dataset.csv"
+    },
+{
+        "p_rel_url" : "digital-locks-for-motels/refs/heads/main/olist_order_payments_dataset.csv",
+        "p_sink_folder" : "olist_order_payments_dataset",
+        "p_sink_file" : "olist_order_payments_dataset.csv"
+    },
+{
+        "p_rel_url" : "srujan-l/digital-locks-for-motels/refs/heads/main/olist_sellers_dataset.csv",
+        "p_sink_folder" : "olist_sellers_dataset",
+        "p_sink_file" : "olist_sellers_dataset.csv"
+    },
+
+
+]
